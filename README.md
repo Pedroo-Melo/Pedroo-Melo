@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Olá, me chamo Pedro Henrique de Melo, tenho 18 anos e sou de São Paulo. Sou um desenvolvedor front-end com foco na criação de interfaces modernas, responsivas e funcionais.  Estou em constante aprendizado e aprimoramento, Meu objetivo é crescer como profissional e colaborar com projetos que façam a diferença.
+Olá, me chamo Pedro Henrique de Melo, tenho 18 anos e sou de São Paulo. Sou um desenvolvedor front-end com foco na criação de interfaces modernas, responsivas e funcionais.  Estou em constante aprendizado e aprimoramento! Meu objetivo é crescer como profissional e colaborar com projetos que façam a diferença.
 
 
 
