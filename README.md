@@ -1,4 +1,4 @@
-## # 🧑🏼‍💻 Pedro Henrique Melo 
+## 🧑🏼‍💻 Pedro Henrique Melo 
 
 **`Desenvolvedor Front-end`**
 
